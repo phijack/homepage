@@ -25,7 +25,7 @@ education:
   courses:
   - course: BSE in Information Engineering
     institution: Shanghai Jiao Tong University
-    year: 2014-2018
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
