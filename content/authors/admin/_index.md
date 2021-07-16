@@ -60,6 +60,8 @@ user_groups:
 - Visitors
 ---
 
-Hongao is a project officer in Nanyang Technological University, which is a position similar to the research assistant in US. It is my honor to be supervised by Prof. Xiaohui Bei at NTU, Singapore. Before that, I was an undergraduate at Shanghai Jiao Tong University and did several research projects with Prof. Gravin and Prof. Lu from Shanghai University of Finance and Economics.
+Hongao is a project officer at Nanyang Technological University, which is a position similar to the research assistant in US. It is my honor to be supervised by Prof. Xiaohui Bei at NTU, Singapore. Before that, I was an undergraduate at Shanghai Jiao Tong University and did several research projects with Prof. Gravin and Prof. Lu from Shanghai University of Finance and Economics.
+
+I will be a Ph.D. student at Purdue University this fall and will be supervised by Prof. Alex Psomas.
 
 My research interests include Algorithmic Mechanism Design, Fair Division and Online Algorithm. I also have broad interests in Theoretical Computer Science.
