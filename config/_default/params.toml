@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "hongao.wang@ntu.edu.sg"
+email = "wang5270@purdue.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "SPMS 05-34, 21 Nanyang Link, NTU", city = "Singapore", region = "", postcode = "637371", country = "Singapore", country_code = "SG"}
+address = {street = "305 N University Street", city = "West Lafayette", region = "IN", postcode = "47907", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

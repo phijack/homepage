@@ -6,17 +6,18 @@ title: Hongao Wang
 superuser: true
 
 # Role/position
-role: Project Officer
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Nanyang Technological University
+- name: Purdue University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Algorithmic Mechanism Design, Fair Division and Online Algorithm. I am also have a broad interests in Theoretical Computer Science.
+bio: My research interests include sublinear algorithm on big data and related statistics and also learning theory, especially learnablity problems. I also did some works on Algorithmic Mechanism Design, Fair Division and Online Algorithm, which I think I will keep working on. I am also have a broad interests in Theoretical Computer Science.
 
 interests:
+- sublinear algorithms on big data and related statistics
 - Algorithmic Mechanism Design
 - Fair Division
 - Online Algorithm
@@ -34,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:hongao.wang@ntu.edu.sg  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:wang5270@purdue.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=B9qmgMAAAAAJ&hl=zh-CN
@@ -60,8 +61,8 @@ user_groups:
 - Visitors
 ---
 
-Hongao is a project officer at Nanyang Technological University, which is a position similar to the research assistant in US. It is my honor to be supervised by Prof. Xiaohui Bei at NTU, Singapore. Before that, I was an undergraduate at Shanghai Jiao Tong University and did several research projects with Prof. Gravin and Prof. Lu from Shanghai University of Finance and Economics.
+Hongao is a PhD student at Purdue University since 2021 fall and now I am working with Prof. Paul Valiant.
 
-I will be a Ph.D. student at Purdue University this fall and will be supervised by Prof. Alex Psomas.
+I was a project officer at Nanyang Technological University, which is a position similar to the research assistant in US. It is my honor to be supervised by Prof. Xiaohui Bei at NTU, Singapore. Before that, I was an undergraduate at Shanghai Jiao Tong University and did several research projects with Prof. Gravin and Prof. Lu from Shanghai University of Finance and Economics.
 
-My research interests include Algorithmic Mechanism Design, Fair Division and Online Algorithm. I also have broad interests in Theoretical Computer Science.
+My research interests include Algorithmic Mechanism Design, Fair Division, Online Algorithm, sublinear algorithm on big data and related statistics and learnability problem on online learning. I am now focusing more on statistics related algorithms and learning theory, even though I did some works on mechanism design and fair division, which I will try to keep working on. I also have broad interests in Theoretical Computer Science.
