@@ -11,7 +11,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: Purdue University
-  url: ""
+  url: "https://www.cs.purdue.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include sublinear algorithm on big data and related statistics and also learning theory, especially learnablity problems. I also did some works on Algorithmic Mechanism Design, Fair Division and Online Algorithm, which I think I will keep working on. I am also have a broad interests in Theoretical Computer Science.
@@ -26,7 +26,7 @@ education:
   courses:
   - course: BSE in Information Engineering
     institution: Shanghai Jiao Tong University
-    year: 2018
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
