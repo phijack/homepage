@@ -17,7 +17,8 @@ organizations:
 bio: My research interests include sublinear algorithm on big data and related statistics and also learning theory, especially learnablity problems. I also did some works on Algorithmic Mechanism Design, Fair Division and Online Algorithm, which I think I will keep working on. I am also have a broad interests in Theoretical Computer Science.
 
 interests:
-- sublinear algorithms on big data and related statistics
+- Sublinear Algorithms on Big Data and Related Statistics
+- Learning Theory
 - Algorithmic Mechanism Design
 - Fair Division
 - Online Algorithm
@@ -60,8 +61,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Hongao is a PhD student at Purdue University since 2021 fall and now I am working with Prof. Paul Valiant.
+Hongao is a PhD student at Purdue University since 2021 fall and I am very fortunate to be advised by [Prof. Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/) and [Prof. Steve Henneke](https://stevehanneke.com/).
 
 I was a project officer at Nanyang Technological University, which is a position similar to the research assistant in US. It is my honor to be supervised by Prof. Xiaohui Bei at NTU, Singapore. Before that, I was an undergraduate at Shanghai Jiao Tong University and did several research projects with Prof. Gravin and Prof. Lu from Shanghai University of Finance and Economics.
 
